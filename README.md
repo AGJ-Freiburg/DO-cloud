@@ -35,10 +35,10 @@ Please click on an individual entry to learn more about it.
 ## CONTRIBUTORS
 | TASK                       | PERSONS                                                          | 
 | -------------              |-------------:                                                    | 
-| Project lead               | Moritz Bross, Robin Haensse                                      |
-| Design lead                | Moritz Bross                                                     |
-| Programming Lead           | Robin Haensse                                                    |
-| Programming                | [Niko Suchowitz](), [Robin Haensse](https://github.com/StandardWobin), [Moritz Bross](https://github.com/MoritzBross), [Bernhard Ruchti]()  |
+| Project lead               | [Bernhard Ruchti](https://github.com/bernhardlruchti), [Robin Haensse](https://github.com/StandardWobin)             |
+| Design lead                | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                              |
+| Programming Lead           | [Robin Haensse](https://github.com/StandardWobin)                                                    |
+| Programming                | [Niko Suchowitz](https://github.com/nSucho), [Robin Haensse](https://github.com/StandardWobin), [Moritz Bross](https://github.com/MoritzBross), [Bernhard Ruchti](https://github.com/bernhardlruchti)  |
 | Acknowledgments            | Thomas Rutschmann, Stefan Heinz, Ilaria Mastrelli, Valentin Wels  |
 | Advisory Board             | Dirk Dymarski, Corinna Lenhart, Robert Limmer, Stefan Kunz, Felix Neumann, Dr. Stefan Schneider, Gabi Rolland |
 
@@ -53,9 +53,7 @@ Please click on an individual entry to learn more about it.
 
 
 ## QUESTIONS
-Contact [AGJ-Freiburg](https://agj-freiburg.de/kontaktformular)
-or
-the developers by using "Issues".
+wohnungslosenhilfe@agj-freiburg.de
 
 <img src="docs/eu.jpg" alt="eu-funding" />
 
