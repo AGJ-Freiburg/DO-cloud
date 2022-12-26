@@ -53,7 +53,7 @@ Please click on an individual entry to learn more about it.
 
 
 ## QUESTIONS
-wohnungslosenhilfe@agj-freiburg.de
+Contact: wohnungslosenhilfe@agj-freiburg.de
 
 <img src="docs/eu.jpg" alt="eu-funding" />
 
