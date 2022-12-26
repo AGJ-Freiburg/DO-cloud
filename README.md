@@ -35,8 +35,8 @@ Please click on an individual entry to learn more about it.
 ## CONTRIBUTORS
 | TASK                       | PERSONS                                                          | 
 | -------------              |-------------:                                                    | 
-| Project lead               | [Bernhard Ruchti](https://github.com/bernhardlruchti), [Robin Haensse](https://github.com/StandardWobin)             |
-| Design lead                | [Bernhard Ruchti](https://github.com/bernhardlruchti)                                              |
+| Project lead               | [Moritz Bross](https://github.com/MoritzBross), [Robin Haensse](https://github.com/StandardWobin)             |
+| Design lead                | [Moritz Bross](https://github.com/MoritzBross)                                              |
 | Programming Lead           | [Robin Haensse](https://github.com/StandardWobin)                                                    |
 | Programming                | [Niko Suchowitz](https://github.com/nSucho), [Robin Haensse](https://github.com/StandardWobin), [Moritz Bross](https://github.com/MoritzBross), [Bernhard Ruchti](https://github.com/bernhardlruchti)  |
 | Acknowledgments            | Thomas Rutschmann, Stefan Heinz, Ilaria Mastrelli, Valentin Wels  |
