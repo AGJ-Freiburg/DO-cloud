@@ -1,0 +1,72 @@
+{
+  "name": "frontend",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "resources": "capacitor-resources -p android,ios"
+  },
+  "dependencies": {
+    "@nextcloud/password-confirmation": "^1.0.1",
+    "core-js": "^3.25.1",
+    "node-polyfill-webpack-plugin": "^2.0.1",
+    "vue": "^2.6.11",
+    "vue-auth-image": "^0.0.3",
+    "vue-cookie-law": "^1.13.3",
+    "vue-cookies": "^1.8.0",
+    "vue-multilanguage": "^4.0.18",
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^2.6.10",
+    "webdav": "^4.8.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.5.95",
+    "@vue/cli-plugin-babel": "5.0.8",
+    "@vue/cli-service": "5.0.8",
+    "babel-eslint": "^10.1.0",
+    "eslint": "8.22.0",
+    "eslint-plugin-vue": "9.4.0",
+    "vue-cli-plugin-vuetify": "~2.4.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "prettier": {
+    "arrowParens": "avoid",
+    "bracketSpacing": true,
+    "htmlWhitespaceSensitivity": "css",
+    "insertPragma": false,
+    "jsxBracketSameLine": false,
+    "jsxSingleQuote": false,
+    "printWidth": 100,
+    "proseWrap": "preserve",
+    "quoteProps": "as-needed",
+    "requirePragma": false,
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "none",
+    "useTabs": false,
+    "vueIndentScriptAndStyle": false,
+    "rangeStart": 0
+  }
+}
