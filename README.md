@@ -2,7 +2,7 @@
 
 
 #  <p align="center"><a target="_blank" rel="noopener noreferrer"><img width="200" src="docs/logo.png" alt="Vue logo"></a></p>DATEN OASE - Simple Nextcloud-UI for social work
-Daten Oase is a simple and user-centered frontend for [Nextcloud](https://nextcloud.com). This cloud was created to give homeless people the possibility to store their documents for free: secure, simple and self-governed. It was developed within the context of the EU project *"Cloud for homeless people"* of the [AGJ-Fachverband Freiburg](https://agj-freiburg.de). To guarantee it's usefulness, the cloud was designed directly by AGJ-FREIBURG in collaboration with homeless people and social workers.
+Daten Oase is a simple and user-centered frontend for [Nextcloud](https://nextcloud.com). This cloud was created to give homeless people the possibility to store their documents for free: secure, simple and self-governed. It was developed within the context of the EU project *"Cloud for homeless people"* of the [AGJ-Fachverband Freiburg](https://agj-freiburg.de). To guarantee it's usefulness, the cloud was designed directly by [AGJ-Fachverband Freiburg](https://agj-freiburg.de) in collaboration with homeless people and social workers.
 
 ## SCREENSHOTS
 <img src="docs/screenshot.png" alt="Screen1" />
